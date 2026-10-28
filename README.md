@@ -19,6 +19,8 @@ Olá! Sou estudante de Programação de Sistemas, apaixonada por tecnologia e pe
 - Fundamentos de Desenvolvimento de Sistemas
 - Metodologias Ágeis
 - Resolução de Problemas
+- html
+- css
 
 🌱 Meus objetivos
 
